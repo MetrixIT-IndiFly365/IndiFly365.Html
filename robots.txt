@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Allow: /
+Allow: /sitemap.xml
+
+Sitemap: https://indifly365.com/sitemap.xml
+Sitemap: https://www.indifly365.com/sitemap.xml
